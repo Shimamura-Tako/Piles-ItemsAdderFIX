@@ -1,0 +1,115 @@
+info:
+  namespace: pilesfix
+items:
+  apple_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_apples/apple_1
+  apple_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_apples/apple_2
+  apple_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_apples/apple_3
+  apple_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_apples/apple_4
+  apple_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_apples/apple_5
+  apple_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_apples/apple_6
+  apple_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_apples/apple_7
+  apple_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_apples/apple_8
+  apple_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_apples/apple_9
+  apple_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_apples/apple_10
+  apple_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_apples/apple_11
+  apple_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_apples/apple_12
+  apple_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_apples/apple_13
+  apple_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: APPLE
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_apples/apple_14
