@@ -4,8 +4,6 @@ Make your Piles resourcepack no longer conflict with ItemsAdder.
 [中文文档](README_zhcn.md)
 
 ## What is this?
-I just completed prototype verification in my test environment. This repository will soon be filled with content.
-
 This magical² extension allows your Piles resourcepack to no longer conflict with your ItemsAdder item textures, and also works with other resource packs that use IA (such as the Slimefun resourcepack).
 
 ## How to use?
@@ -13,7 +11,7 @@ This magical² extension allows your Piles resourcepack to no longer conflict wi
 
 1. Place the `pilesfix` folder in the `contents` directory, execute `/iareload` and `/iazip`, then load the `generated.zip` resourcepack
 
-2. Modify the Piles resourcepack by deleting all files in the `assets/minecraft/items` directory (currently not all files - do not delete *anything* for now,bruh), then load it in the game above `generated.zip`
+2. Modify the Piles resourcepack by deleting all files in the `assets/minecraft/items` directory, then load it in the game above `generated.zip`
 
 3. That's it! Now you can use Piles normally without worrying about conflicts with ItemsAdder resources
 
@@ -32,4 +30,4 @@ However, if you really need it for lower versions, try using DeepSeek, ChatGPT, 
 *If Athlaeos provides me with a copy of Valhalla Premium to encourage me to continue development, I will dedicate time in the future to personally test and ensure compatibility with older Minecraft server versions.*
 
 ## Future Plans
-- bruh
+- Make potion bottles no longer turn entirely blue
