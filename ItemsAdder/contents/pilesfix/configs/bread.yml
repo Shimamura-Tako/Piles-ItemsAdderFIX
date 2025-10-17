@@ -1,0 +1,27 @@
+info:
+  namespace: pilesfix
+items:
+  bread_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BREAD
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_bread/bread_1
+  bread_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BREAD
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_bread/bread_2
+  bread_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BREAD
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_bread/bread_3

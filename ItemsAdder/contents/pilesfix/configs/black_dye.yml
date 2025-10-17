@@ -1,0 +1,195 @@
+info:
+  namespace: pilesfix
+items:
+  stacked_blackstone_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_1
+  stacked_blackstone_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_2
+  stacked_blackstone_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_3
+  stacked_blackstone_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_4
+  stacked_blackstone_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_5
+  stacked_blackstone_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_6
+  stacked_blackstone_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_7
+  stacked_blackstone_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_8
+  stacked_blackstone_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_9
+  stacked_blackstone_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_10
+  stacked_blackstone_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_11
+  stacked_blackstone_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_12
+  stacked_blackstone_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_13
+  stacked_blackstone_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_14
+  stacked_blackstone_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_15
+  stacked_blackstone_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_16
+  stacked_blackstone_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_17
+  stacked_blackstone_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_18
+  stacked_blackstone_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_19
+  stacked_blackstone_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_20
+  stacked_blackstone_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_21
+  stacked_blackstone_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_22
+  stacked_blackstone_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_23
+  stacked_blackstone_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BLACK_DYE
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_blackstone/stacked_blackstone_24

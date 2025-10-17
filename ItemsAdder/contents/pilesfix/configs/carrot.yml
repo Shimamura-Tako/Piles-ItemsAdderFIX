@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  carrots_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_carrots/carrots_1
+  carrots_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_carrots/carrots_2
+  carrots_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_carrots/carrots_3
+  carrots_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_carrots/carrots_4
+  carrots_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_carrots/carrots_5
+  carrots_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_carrots/carrots_6
+  carrots_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_carrots/carrots_7
+  carrots_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_carrots/carrots_8
+  carrots_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_carrots/carrots_9
+  carrots_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_carrots/carrots_10
+  carrots_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_carrots/carrots_11
+  carrots_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_carrots/carrots_12
+  carrots_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_carrots/carrots_13
+  carrots_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_carrots/carrots_14
+  carrots_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_carrots/carrots_15
+  carrots_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: CARROT
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_carrots/carrots_16

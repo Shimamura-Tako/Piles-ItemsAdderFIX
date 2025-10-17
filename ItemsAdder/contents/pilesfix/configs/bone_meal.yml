@@ -1,0 +1,195 @@
+info:
+  namespace: pilesfix
+items:
+  stacked_diorite_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_1
+  stacked_diorite_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_2
+  stacked_diorite_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_3
+  stacked_diorite_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_4
+  stacked_diorite_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_5
+  stacked_diorite_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_6
+  stacked_diorite_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_7
+  stacked_diorite_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_8
+  stacked_diorite_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_9
+  stacked_diorite_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_10
+  stacked_diorite_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_11
+  stacked_diorite_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_12
+  stacked_diorite_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_13
+  stacked_diorite_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_14
+  stacked_diorite_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_15
+  stacked_diorite_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_16
+  stacked_diorite_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_17
+  stacked_diorite_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_18
+  stacked_diorite_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_19
+  stacked_diorite_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_20
+  stacked_diorite_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_21
+  stacked_diorite_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_22
+  stacked_diorite_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_23
+  stacked_diorite_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BONE_MEAL
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_diorite/stacked_diorite_24

@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  cookies_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_1
+  cookies_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_2
+  cookies_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_3
+  cookies_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_4
+  cookies_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_5
+  cookies_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_6
+  cookies_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_7
+  cookies_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_8
+  cookies_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_9
+  cookies_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_10
+  cookies_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_11
+  cookies_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_12
+  cookies_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_13
+  cookies_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_14
+  cookies_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_15
+  cookies_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BROWN_DYE
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_jars/cookies/cookies_16

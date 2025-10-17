@@ -1,0 +1,163 @@
+info:
+  namespace: pilesfix
+items:
+  stacked_copper_ingot_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_1
+  stacked_copper_ingot_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_2
+  stacked_copper_ingot_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_3
+  stacked_copper_ingot_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_4
+  stacked_copper_ingot_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_5
+  stacked_copper_ingot_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_6
+  stacked_copper_ingot_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_7
+  stacked_copper_ingot_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_8
+  stacked_copper_ingot_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_9
+  stacked_copper_ingot_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_10
+  stacked_copper_ingot_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_11
+  stacked_copper_ingot_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_12
+  stacked_copper_ingot_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_13
+  stacked_copper_ingot_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_14
+  stacked_copper_ingot_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_15
+  stacked_copper_ingot_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_16
+  stacked_copper_ingot_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_17
+  stacked_copper_ingot_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_18
+  stacked_copper_ingot_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_19
+  stacked_copper_ingot_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: COPPER_INGOT
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_copper_ingots/stacked_copper_ingot_20

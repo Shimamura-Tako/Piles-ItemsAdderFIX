@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  beet_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_beets/beet_1
+  beet_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_beets/beet_2
+  beet_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_beets/beet_3
+  beet_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_beets/beet_4
+  beet_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_beets/beet_5
+  beet_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_beets/beet_6
+  beet_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_beets/beet_7
+  beet_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_beets/beet_8
+  beet_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_beets/beet_9
+  beet_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_beets/beet_10
+  beet_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_beets/beet_11
+  beet_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_beets/beet_12
+  beet_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_beets/beet_13
+  beet_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_beets/beet_14
+  beet_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_beets/beet_15
+  beet_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BEETROOT
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_beets/beet_16

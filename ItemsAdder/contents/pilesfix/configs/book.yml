@@ -1,0 +1,75 @@
+info:
+  namespace: pilesfix
+items:
+  book_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_books/book_1
+  book_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_books/book_2
+  book_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_books/book_3
+  book_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_books/book_4
+  book_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_books/book_5
+  book_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_books/book_6
+  book_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_books/book_7
+  book_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_books/book_8
+  book_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: BOOK
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_books/book_9
