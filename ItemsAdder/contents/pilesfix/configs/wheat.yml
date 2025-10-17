@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  wheat_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_wheat/wheat_1
+  wheat_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_wheat/wheat_2
+  wheat_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_wheat/wheat_3
+  wheat_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_wheat/wheat_4
+  wheat_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_wheat/wheat_5
+  wheat_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_wheat/wheat_6
+  wheat_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_wheat/wheat_7
+  wheat_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_wheat/wheat_8
+  wheat_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_wheat/wheat_9
+  wheat_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_wheat/wheat_10
+  wheat_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_wheat/wheat_11
+  wheat_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_wheat/wheat_12
+  wheat_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_wheat/wheat_13
+  wheat_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_wheat/wheat_14
+  wheat_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_wheat/wheat_15
+  wheat_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHEAT
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_wheat/wheat_16

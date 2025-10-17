@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  golden_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_carrots/golden_1
+  golden_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_carrots/golden_2
+  golden_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_carrots/golden_3
+  golden_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_carrots/golden_4
+  golden_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_carrots/golden_5
+  golden_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_carrots/golden_6
+  golden_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_carrots/golden_7
+  golden_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_carrots/golden_8
+  golden_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_carrots/golden_9
+  golden_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_carrots/golden_10
+  golden_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_carrots/golden_11
+  golden_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_carrots/golden_12
+  golden_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_carrots/golden_13
+  golden_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_carrots/golden_14
+  golden_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_carrots/golden_15
+  golden_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLDEN_CARROT
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_carrots/golden_16

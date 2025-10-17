@@ -1,0 +1,35 @@
+info:
+  namespace: pilesfix
+items:
+  honey_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: HONEY_BOTTLE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_potions/honey_1
+  honey_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: HONEY_BOTTLE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_potions/honey_2
+  honey_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: HONEY_BOTTLE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_potions/honey_3
+  honey_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: HONEY_BOTTLE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_potions/honey_4

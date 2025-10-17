@@ -1,0 +1,515 @@
+info:
+  namespace: pilesfix
+items:
+  stacked_sticks_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_1
+  stacked_sticks_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_2
+  stacked_sticks_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_3
+  stacked_sticks_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_4
+  stacked_sticks_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_5
+  stacked_sticks_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_6
+  stacked_sticks_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_7
+  stacked_sticks_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_8
+  stacked_sticks_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_9
+  stacked_sticks_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_10
+  stacked_sticks_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_11
+  stacked_sticks_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_12
+  stacked_sticks_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_13
+  stacked_sticks_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_14
+  stacked_sticks_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_15
+  stacked_sticks_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_16
+  stacked_sticks_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_17
+  stacked_sticks_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_18
+  stacked_sticks_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_19
+  stacked_sticks_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_20
+  stacked_sticks_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_21
+  stacked_sticks_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_22
+  stacked_sticks_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_23
+  stacked_sticks_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_24
+  stacked_sticks_25:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882624
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_25
+  stacked_sticks_26:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882625
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_26
+  stacked_sticks_27:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882626
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_27
+  stacked_sticks_28:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882627
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_28
+  stacked_sticks_29:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882628
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_29
+  stacked_sticks_30:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882629
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_30
+  stacked_sticks_31:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882630
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_31
+  stacked_sticks_32:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882631
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_32
+  stacked_sticks_33:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882632
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_33
+  stacked_sticks_34:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882633
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_34
+  stacked_sticks_35:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882634
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_35
+  stacked_sticks_36:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882635
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_36
+  stacked_sticks_37:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882636
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_37
+  stacked_sticks_38:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882637
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_38
+  stacked_sticks_39:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882638
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_39
+  stacked_sticks_40:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882639
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_40
+  stacked_sticks_41:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882640
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_41
+  stacked_sticks_42:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882641
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_42
+  stacked_sticks_43:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882642
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_43
+  stacked_sticks_44:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882643
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_44
+  stacked_sticks_45:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882644
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_45
+  stacked_sticks_46:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882645
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_46
+  stacked_sticks_47:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882646
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_47
+  stacked_sticks_48:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882647
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_48
+  stacked_sticks_49:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882648
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_49
+  stacked_sticks_50:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882649
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_50
+  stacked_sticks_51:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882650
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_51
+  stacked_sticks_52:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882651
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_52
+  stacked_sticks_53:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882652
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_53
+  stacked_sticks_54:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882653
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_54
+  stacked_sticks_55:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882654
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_55
+  stacked_sticks_56:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882655
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_56
+  stacked_sticks_57:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882656
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_57
+  stacked_sticks_58:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882657
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_58
+  stacked_sticks_59:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882658
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_59
+  stacked_sticks_60:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882659
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_60
+  stacked_sticks_61:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882660
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_61
+  stacked_sticks_62:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882661
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_62
+  stacked_sticks_63:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882662
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_63
+  stacked_sticks_64:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: STICK
+      model_id: 1882663
+      generate: false
+      model_path: item/pile_sticks/stacked_sticks_64

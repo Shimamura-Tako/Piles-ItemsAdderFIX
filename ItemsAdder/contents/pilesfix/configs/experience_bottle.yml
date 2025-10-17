@@ -1,0 +1,35 @@
+info:
+  namespace: pilesfix
+items:
+  experience_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EXPERIENCE_BOTTLE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_potions/experience_1
+  experience_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EXPERIENCE_BOTTLE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_potions/experience_2
+  experience_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EXPERIENCE_BOTTLE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_potions/experience_3
+  experience_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EXPERIENCE_BOTTLE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_potions/experience_4

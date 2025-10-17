@@ -1,0 +1,11 @@
+info:
+  namespace: pilesfix
+items:
+  quill_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WRITABLE_BOOK
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_books/quill_1

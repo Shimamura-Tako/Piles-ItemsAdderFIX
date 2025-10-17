@@ -1,0 +1,195 @@
+info:
+  namespace: pilesfix
+items:
+  stacked_calcite_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_1
+  stacked_calcite_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_2
+  stacked_calcite_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_3
+  stacked_calcite_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_4
+  stacked_calcite_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_5
+  stacked_calcite_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_6
+  stacked_calcite_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_7
+  stacked_calcite_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_8
+  stacked_calcite_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_9
+  stacked_calcite_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_10
+  stacked_calcite_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_11
+  stacked_calcite_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_12
+  stacked_calcite_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_13
+  stacked_calcite_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_14
+  stacked_calcite_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_15
+  stacked_calcite_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_16
+  stacked_calcite_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_17
+  stacked_calcite_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_18
+  stacked_calcite_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_19
+  stacked_calcite_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_20
+  stacked_calcite_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_21
+  stacked_calcite_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_22
+  stacked_calcite_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_23
+  stacked_calcite_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: WHITE_DYE
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_calcite/stacked_calcite_24

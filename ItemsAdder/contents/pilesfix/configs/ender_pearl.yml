@@ -1,0 +1,43 @@
+info:
+  namespace: pilesfix
+items:
+  pearl_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_PEARL
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_ender_pearls/pearl_1
+  pearl_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_PEARL
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_ender_pearls/pearl_2
+  pearl_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_PEARL
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_ender_pearls/pearl_3
+  pearl_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_PEARL
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_ender_pearls/pearl_4
+  pearl_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_PEARL
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_ender_pearls/pearl_5

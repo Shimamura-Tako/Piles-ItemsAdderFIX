@@ -1,0 +1,195 @@
+info:
+  namespace: pilesfix
+items:
+  stacked_granite_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_granite/stacked_granite_1
+  stacked_granite_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_granite/stacked_granite_2
+  stacked_granite_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_granite/stacked_granite_3
+  stacked_granite_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_granite/stacked_granite_4
+  stacked_granite_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_granite/stacked_granite_5
+  stacked_granite_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_granite/stacked_granite_6
+  stacked_granite_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_granite/stacked_granite_7
+  stacked_granite_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_granite/stacked_granite_8
+  stacked_granite_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_granite/stacked_granite_9
+  stacked_granite_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_granite/stacked_granite_10
+  stacked_granite_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_granite/stacked_granite_11
+  stacked_granite_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_granite/stacked_granite_12
+  stacked_granite_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_granite/stacked_granite_13
+  stacked_granite_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_granite/stacked_granite_14
+  stacked_granite_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_granite/stacked_granite_15
+  stacked_granite_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_granite/stacked_granite_16
+  stacked_granite_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_granite/stacked_granite_17
+  stacked_granite_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_granite/stacked_granite_18
+  stacked_granite_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_granite/stacked_granite_19
+  stacked_granite_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_granite/stacked_granite_20
+  stacked_granite_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_granite/stacked_granite_21
+  stacked_granite_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_granite/stacked_granite_22
+  stacked_granite_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_granite/stacked_granite_23
+  stacked_granite_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_granite/stacked_granite_24

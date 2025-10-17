@@ -1,0 +1,75 @@
+info:
+  namespace: pilesfix
+items:
+  pie_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_1
+  pie_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_2
+  pie_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_3
+  pie_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_4
+  pie_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_5
+  pie_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_6
+  pie_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_7
+  pie_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_8
+  pie_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: PUMPKIN_PIE
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_pumpkin_pie/pie_9

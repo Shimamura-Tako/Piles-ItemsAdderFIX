@@ -1,0 +1,43 @@
+info:
+  namespace: pilesfix
+items:
+  eye_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_EYE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_ender_pearls/eye_1
+  eye_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_EYE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_ender_pearls/eye_2
+  eye_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_EYE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_ender_pearls/eye_3
+  eye_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_EYE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_ender_pearls/eye_4
+  eye_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENDER_EYE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_ender_pearls/eye_5

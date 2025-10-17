@@ -1,0 +1,195 @@
+info:
+  namespace: pilesfix
+items:
+  stacked_cobblestone_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_1
+  stacked_cobblestone_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_2
+  stacked_cobblestone_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_3
+  stacked_cobblestone_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_4
+  stacked_cobblestone_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_5
+  stacked_cobblestone_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_6
+  stacked_cobblestone_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_7
+  stacked_cobblestone_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_8
+  stacked_cobblestone_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_9
+  stacked_cobblestone_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_10
+  stacked_cobblestone_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_11
+  stacked_cobblestone_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_12
+  stacked_cobblestone_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_13
+  stacked_cobblestone_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_14
+  stacked_cobblestone_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_15
+  stacked_cobblestone_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_16
+  stacked_cobblestone_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_17
+  stacked_cobblestone_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_18
+  stacked_cobblestone_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_19
+  stacked_cobblestone_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_20
+  stacked_cobblestone_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_21
+  stacked_cobblestone_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_22
+  stacked_cobblestone_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_23
+  stacked_cobblestone_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GRAY_DYE
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_cobblestone/stacked_cobblestone_24

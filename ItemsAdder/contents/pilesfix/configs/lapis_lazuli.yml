@@ -1,0 +1,195 @@
+info:
+  namespace: pilesfix
+items:
+  pile_lapis_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_1
+  pile_lapis_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_2
+  pile_lapis_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_3
+  pile_lapis_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_4
+  pile_lapis_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_5
+  pile_lapis_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_6
+  pile_lapis_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_7
+  pile_lapis_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_8
+  pile_lapis_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_9
+  pile_lapis_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_10
+  pile_lapis_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_11
+  pile_lapis_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_12
+  pile_lapis_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_13
+  pile_lapis_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_14
+  pile_lapis_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_15
+  pile_lapis_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_16
+  pile_lapis_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_17
+  pile_lapis_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_18
+  pile_lapis_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_19
+  pile_lapis_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_20
+  pile_lapis_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_21
+  pile_lapis_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_22
+  pile_lapis_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_23
+  pile_lapis_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: LAPIS_LAZULI
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_lapis_lazuli/pile_lapis_24

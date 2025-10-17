@@ -1,0 +1,515 @@
+info:
+  namespace: pilesfix
+items:
+  coin_pile_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_coins/coin_pile_1
+  coin_pile_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_coins/coin_pile_2
+  coin_pile_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_coins/coin_pile_3
+  coin_pile_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_coins/coin_pile_4
+  coin_pile_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_coins/coin_pile_5
+  coin_pile_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_coins/coin_pile_6
+  coin_pile_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_coins/coin_pile_7
+  coin_pile_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_coins/coin_pile_8
+  coin_pile_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_coins/coin_pile_9
+  coin_pile_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_coins/coin_pile_10
+  coin_pile_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_coins/coin_pile_11
+  coin_pile_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_coins/coin_pile_12
+  coin_pile_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_coins/coin_pile_13
+  coin_pile_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_coins/coin_pile_14
+  coin_pile_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_coins/coin_pile_15
+  coin_pile_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_coins/coin_pile_16
+  coin_pile_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_coins/coin_pile_17
+  coin_pile_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_coins/coin_pile_18
+  coin_pile_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_coins/coin_pile_19
+  coin_pile_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_coins/coin_pile_20
+  coin_pile_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_coins/coin_pile_21
+  coin_pile_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_coins/coin_pile_22
+  coin_pile_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_coins/coin_pile_23
+  coin_pile_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_coins/coin_pile_24
+  coin_pile_25:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882624
+      generate: false
+      model_path: item/pile_coins/coin_pile_25
+  coin_pile_26:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882625
+      generate: false
+      model_path: item/pile_coins/coin_pile_26
+  coin_pile_27:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882626
+      generate: false
+      model_path: item/pile_coins/coin_pile_27
+  coin_pile_28:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882627
+      generate: false
+      model_path: item/pile_coins/coin_pile_28
+  coin_pile_29:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882628
+      generate: false
+      model_path: item/pile_coins/coin_pile_29
+  coin_pile_30:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882629
+      generate: false
+      model_path: item/pile_coins/coin_pile_30
+  coin_pile_31:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882630
+      generate: false
+      model_path: item/pile_coins/coin_pile_31
+  coin_pile_32:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882631
+      generate: false
+      model_path: item/pile_coins/coin_pile_32
+  coin_pile_33:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882632
+      generate: false
+      model_path: item/pile_coins/coin_pile_33
+  coin_pile_34:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882633
+      generate: false
+      model_path: item/pile_coins/coin_pile_34
+  coin_pile_35:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882634
+      generate: false
+      model_path: item/pile_coins/coin_pile_35
+  coin_pile_36:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882635
+      generate: false
+      model_path: item/pile_coins/coin_pile_36
+  coin_pile_37:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882636
+      generate: false
+      model_path: item/pile_coins/coin_pile_37
+  coin_pile_38:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882637
+      generate: false
+      model_path: item/pile_coins/coin_pile_38
+  coin_pile_39:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882638
+      generate: false
+      model_path: item/pile_coins/coin_pile_39
+  coin_pile_40:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882639
+      generate: false
+      model_path: item/pile_coins/coin_pile_40
+  coin_pile_41:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882640
+      generate: false
+      model_path: item/pile_coins/coin_pile_41
+  coin_pile_42:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882641
+      generate: false
+      model_path: item/pile_coins/coin_pile_42
+  coin_pile_43:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882642
+      generate: false
+      model_path: item/pile_coins/coin_pile_43
+  coin_pile_44:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882643
+      generate: false
+      model_path: item/pile_coins/coin_pile_44
+  coin_pile_45:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882644
+      generate: false
+      model_path: item/pile_coins/coin_pile_45
+  coin_pile_46:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882645
+      generate: false
+      model_path: item/pile_coins/coin_pile_46
+  coin_pile_47:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882646
+      generate: false
+      model_path: item/pile_coins/coin_pile_47
+  coin_pile_48:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882647
+      generate: false
+      model_path: item/pile_coins/coin_pile_48
+  coin_pile_49:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882648
+      generate: false
+      model_path: item/pile_coins/coin_pile_49
+  coin_pile_50:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882649
+      generate: false
+      model_path: item/pile_coins/coin_pile_50
+  coin_pile_51:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882650
+      generate: false
+      model_path: item/pile_coins/coin_pile_51
+  coin_pile_52:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882651
+      generate: false
+      model_path: item/pile_coins/coin_pile_52
+  coin_pile_53:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882652
+      generate: false
+      model_path: item/pile_coins/coin_pile_53
+  coin_pile_54:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882653
+      generate: false
+      model_path: item/pile_coins/coin_pile_54
+  coin_pile_55:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882654
+      generate: false
+      model_path: item/pile_coins/coin_pile_55
+  coin_pile_56:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882655
+      generate: false
+      model_path: item/pile_coins/coin_pile_56
+  coin_pile_57:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882656
+      generate: false
+      model_path: item/pile_coins/coin_pile_57
+  coin_pile_58:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882657
+      generate: false
+      model_path: item/pile_coins/coin_pile_58
+  coin_pile_59:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882658
+      generate: false
+      model_path: item/pile_coins/coin_pile_59
+  coin_pile_60:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882659
+      generate: false
+      model_path: item/pile_coins/coin_pile_60
+  coin_pile_61:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882660
+      generate: false
+      model_path: item/pile_coins/coin_pile_61
+  coin_pile_62:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882661
+      generate: false
+      model_path: item/pile_coins/coin_pile_62
+  coin_pile_63:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882662
+      generate: false
+      model_path: item/pile_coins/coin_pile_63
+  coin_pile_64:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GOLD_NUGGET
+      model_id: 1882663
+      generate: false
+      model_path: item/pile_coins/coin_pile_64

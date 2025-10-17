@@ -1,0 +1,195 @@
+info:
+  namespace: pilesfix
+items:
+  pile_emeralds_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_1
+  pile_emeralds_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_2
+  pile_emeralds_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_3
+  pile_emeralds_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_4
+  pile_emeralds_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_5
+  pile_emeralds_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_6
+  pile_emeralds_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_7
+  pile_emeralds_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_8
+  pile_emeralds_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_9
+  pile_emeralds_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_10
+  pile_emeralds_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_11
+  pile_emeralds_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_12
+  pile_emeralds_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_13
+  pile_emeralds_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_14
+  pile_emeralds_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_15
+  pile_emeralds_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_16
+  pile_emeralds_17:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882616
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_17
+  pile_emeralds_18:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882617
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_18
+  pile_emeralds_19:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882618
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_19
+  pile_emeralds_20:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882619
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_20
+  pile_emeralds_21:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882620
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_21
+  pile_emeralds_22:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882621
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_22
+  pile_emeralds_23:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882622
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_23
+  pile_emeralds_24:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EMERALD
+      model_id: 1882623
+      generate: false
+      model_path: item/pile_emeralds/pile_emeralds_24

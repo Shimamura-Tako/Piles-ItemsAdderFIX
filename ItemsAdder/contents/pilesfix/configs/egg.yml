@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  eggs_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_eggs/eggs_1
+  eggs_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_eggs/eggs_2
+  eggs_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_eggs/eggs_3
+  eggs_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_eggs/eggs_4
+  eggs_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_eggs/eggs_5
+  eggs_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_eggs/eggs_6
+  eggs_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_eggs/eggs_7
+  eggs_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_eggs/eggs_8
+  egg_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_eggs/egg_9
+  egg_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_eggs/egg_10
+  egg_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_eggs/egg_11
+  egg_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_eggs/egg_12
+  egg_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_eggs/egg_13
+  egg_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_eggs/egg_14
+  egg_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_eggs/egg_15
+  egg_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: EGG
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_eggs/egg_16

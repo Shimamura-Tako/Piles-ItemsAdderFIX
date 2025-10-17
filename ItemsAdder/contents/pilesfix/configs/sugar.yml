@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  log_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_logs/oak/log_1
+  log_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_logs/oak/log_2
+  log_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_logs/oak/log_3
+  log_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_logs/oak/log_4
+  log_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_logs/oak/log_5
+  log_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_logs/oak/log_6
+  log_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_logs/oak/log_7
+  log_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_logs/oak/log_8
+  log_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_logs/oak/log_9
+  log_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_logs/oak/log_10
+  log_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_logs/oak/log_11
+  log_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_logs/oak/log_12
+  log_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_logs/oak/log_13
+  log_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_logs/oak/log_14
+  log_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_logs/oak/log_15
+  log_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUGAR
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_logs/oak/log_16

@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  spider_eyes_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_1
+  spider_eyes_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_2
+  spider_eyes_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_3
+  spider_eyes_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_4
+  spider_eyes_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_5
+  spider_eyes_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_6
+  spider_eyes_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_7
+  spider_eyes_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_8
+  spider_eyes_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_9
+  spider_eyes_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_10
+  spider_eyes_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_11
+  spider_eyes_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_12
+  spider_eyes_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_13
+  spider_eyes_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_14
+  spider_eyes_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_15
+  spider_eyes_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: SUSPICIOUS_STEW
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_jars/spider_eyes/spider_eyes_16

@@ -1,0 +1,75 @@
+info:
+  namespace: pilesfix
+items:
+  enchanted_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_books/enchanted_1
+  enchanted_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_books/enchanted_2
+  enchanted_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_books/enchanted_3
+  enchanted_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_books/enchanted_4
+  enchanted_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_books/enchanted_5
+  enchanted_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_books/enchanted_6
+  enchanted_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_books/enchanted_7
+  enchanted_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_books/enchanted_8
+  enchanted_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: ENCHANTED_BOOK
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_books/enchanted_9

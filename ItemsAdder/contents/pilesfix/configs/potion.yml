@@ -1,0 +1,35 @@
+info:
+  namespace: pilesfix
+items:
+  potion_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTION
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_potions/potion_1
+  potion_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTION
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_potions/potion_2
+  potion_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTION
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_potions/potion_3
+  potion_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTION
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_potions/potion_4

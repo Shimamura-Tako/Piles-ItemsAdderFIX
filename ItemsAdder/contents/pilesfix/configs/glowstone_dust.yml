@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  glowstone_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_1
+  glowstone_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_2
+  glowstone_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_3
+  glowstone_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_4
+  glowstone_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_5
+  glowstone_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_6
+  glowstone_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_7
+  glowstone_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_8
+  glowstone_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_9
+  glowstone_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_10
+  glowstone_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_11
+  glowstone_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_12
+  glowstone_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_13
+  glowstone_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_14
+  glowstone_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_15
+  glowstone_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: GLOWSTONE_DUST
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_jars/glowstone/glowstone_16

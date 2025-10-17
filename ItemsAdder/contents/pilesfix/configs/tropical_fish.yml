@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  ghast_tears_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_1
+  ghast_tears_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_2
+  ghast_tears_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_3
+  ghast_tears_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_4
+  ghast_tears_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_5
+  ghast_tears_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_6
+  ghast_tears_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_7
+  ghast_tears_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_8
+  ghast_tears_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_9
+  ghast_tears_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_10
+  ghast_tears_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_11
+  ghast_tears_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_12
+  ghast_tears_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_13
+  ghast_tears_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_14
+  ghast_tears_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_15
+  ghast_tears_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: TROPICAL_FISH
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_jars/ghast_tears/ghast_tears_16

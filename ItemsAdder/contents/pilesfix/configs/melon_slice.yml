@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  fermented_eyes_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_1
+  fermented_eyes_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_2
+  fermented_eyes_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_3
+  fermented_eyes_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_4
+  fermented_eyes_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_5
+  fermented_eyes_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_6
+  fermented_eyes_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_7
+  fermented_eyes_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_8
+  fermented_eyes_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_9
+  fermented_eyes_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_10
+  fermented_eyes_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_11
+  fermented_eyes_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_12
+  fermented_eyes_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_13
+  fermented_eyes_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_14
+  fermented_eyes_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_15
+  fermented_eyes_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: MELON_SLICE
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_jars/spider_eyes/fermented_eyes_16

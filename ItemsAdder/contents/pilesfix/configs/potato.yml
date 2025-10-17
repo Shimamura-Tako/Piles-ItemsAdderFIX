@@ -1,0 +1,131 @@
+info:
+  namespace: pilesfix
+items:
+  potatoes_1:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882600
+      generate: false
+      model_path: item/pile_potatoes/potatoes_1
+  potatoes_2:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882601
+      generate: false
+      model_path: item/pile_potatoes/potatoes_2
+  potatoes_3:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882602
+      generate: false
+      model_path: item/pile_potatoes/potatoes_3
+  potatoes_4:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882603
+      generate: false
+      model_path: item/pile_potatoes/potatoes_4
+  potatoes_5:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882604
+      generate: false
+      model_path: item/pile_potatoes/potatoes_5
+  potatoes_6:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882605
+      generate: false
+      model_path: item/pile_potatoes/potatoes_6
+  potatoes_7:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882606
+      generate: false
+      model_path: item/pile_potatoes/potatoes_7
+  potatoes_8:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882607
+      generate: false
+      model_path: item/pile_potatoes/potatoes_8
+  potatoes_9:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882608
+      generate: false
+      model_path: item/pile_potatoes/potatoes_9
+  potatoes_10:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882609
+      generate: false
+      model_path: item/pile_potatoes/potatoes_10
+  potatoes_11:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882610
+      generate: false
+      model_path: item/pile_potatoes/potatoes_11
+  potatoes_12:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882611
+      generate: false
+      model_path: item/pile_potatoes/potatoes_12
+  potatoes_13:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882612
+      generate: false
+      model_path: item/pile_potatoes/potatoes_13
+  potatoes_14:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882613
+      generate: false
+      model_path: item/pile_potatoes/potatoes_14
+  potatoes_15:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882614
+      generate: false
+      model_path: item/pile_potatoes/potatoes_15
+  potatoes_16:
+    display_name: pilesfix
+    permission: pilesfix
+    resource:
+      material: POTATO
+      model_id: 1882615
+      generate: false
+      model_path: item/pile_potatoes/potatoes_16
