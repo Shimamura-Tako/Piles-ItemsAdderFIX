@@ -17,6 +17,15 @@ This magical² extension allows your Piles resourcepack to no longer conflict wi
 
 4. It is recommended to use BungeeResourcepacks or other plugins to send resource packs to players in the correct order.
 
+## Why are the potion bottles I placed turning blue?
+You need to remove the `tints` values for the pilesfix entries in `generated.zip -> ia_overlay_1_21_6_plus/assets/minecraft/items/potion.json`. Here's a reference example: [potion.json](potion.json)
+
+If you don't frequently create potion-related content, you can place the modified potion.json back into the `assets/minecraft/items` directory of the Piles resource pack, keeping that resource pack above `generated.zip`.
+
+This way, you'll only need to modify potion.json when creating new potion-related content, rather than having to repeat the modification every time you run `/iazip`.
+
+I'm not sure if there's a better solution, but that would require mastery of ItemsAdder - and I'm just a *noob*, * *bruh* *.
+
 ## I'm encountering an issue!
 Please submit an issue in this repository instead of going to Piles's repository, because this extension was created by me, not by Athlaeos.
 
