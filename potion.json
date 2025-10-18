@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/potion",
+      "tints": [
+        {
+          "type": "minecraft:potion",
+          "default": -13083194
+        }
+      ]
+    },
+    "entries": [
+      {
+        "threshold": 230529,
+        "model": {
+          "type": "model",
+          "model": "minecraft:item/potion"
+        }
+      },
+      {
+        "threshold": 1882600,
+        "model": {
+          "type": "model",
+          "model": "pilesfix:item/pile_potions/potion_1"
+        }
+      },
+      {
+        "threshold": 1882601,
+        "model": {
+          "type": "model",
+          "model": "pilesfix:item/pile_potions/potion_2"
+        }
+      },
+      {
+        "threshold": 1882602,
+        "model": {
+          "type": "model",
+          "model": "pilesfix:item/pile_potions/potion_3"
+        }
+      },
+      {
+        "threshold": 1882603,
+        "model": {
+          "type": "model",
+          "model": "pilesfix:item/pile_potions/potion_4"
+        }
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}
