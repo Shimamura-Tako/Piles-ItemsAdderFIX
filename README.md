@@ -1,7 +1,7 @@
 # Piles-ItemsAdderFIX
 Make your Piles resourcepack no longer conflict with ItemsAdder.
 
-[中文文档](README_zhcn.md)
+[[中文文档]](README_zhcn.md)
 
 ## What is this?
 This magical² extension allows your Piles resourcepack to no longer conflict with your ItemsAdder item textures, and also works with other resource packs that use IA (such as the Slimefun resourcepack).
@@ -30,13 +30,11 @@ I'm not sure if there's a better solution, but that would require mastery of Ite
 Please submit an issue in this repository instead of going to Piles's repository, because this extension was created by me, not by Athlaeos.
 
 ## Why am I having issues using it on versions below 1.21.4?
-This extension was initially created for my own server, which runs on version 1.21.8.
+This extension was initially created for my own server, which runs on version 1.21.8 (also tested on 1.21.10).
 
 Therefore, you might encounter some minor problems when using it on older server versions.
 
 However, if you really need it for lower versions, try using DeepSeek, ChatGPT, or other AI tools to help you create a compatible version for lower Minecraft versions.
-
-*If Athlaeos provides me with a copy of Valhalla Premium to encourage me to continue development, I will dedicate time in the future to personally test and ensure compatibility with older Minecraft server versions.*
 
 ## Future Plans
 - Make potion bottles no longer turn entirely blue
