@@ -14,7 +14,13 @@ Compatible with ValhallaMMO (Free/Premium) and ValhallaTrinkets if you're using 
 
 1. Place the `pilesfix` folder in the `contents` directory, execute `/iareload` and `/iazip`, then load the `generated.zip` resourcepack
 
-2. Modify the Piles resourcepack by deleting all files in the `assets/minecraft/items` directory, then load it in the game above `generated.zip`
+2. Choose one of the two methods:
+
+- Get the correctly versioned and modified resource pack from the repository's root directory, then load it in the game above `generated.zip` **(RECOMMENDED)**
+
+- **OR** Modify the Piles resource pack by deleting all files in the `assets/minecraft/items`* directory, then load it in the game above `generated.zip`
+
+- - (*: In versions 1.21.3 and below, it's `assets/minecraft/models/item/*.json` and do not delete the contents of other folders in the same directory)
 
 3. That's it! Now you can use Piles normally without worrying about conflicts with ItemsAdder resources
 
@@ -63,13 +69,6 @@ There might be a [third method](https://itemsadder.devs.beer/plugin-usage/adding
 ## I'm encountering an issue!
 Please submit an issue in this repository instead of going to Piles's repository, because this extension was created by me, not by Athlaeos.
 
-## Why am I having issues using it on versions below 1.21.4?
-This extension was initially created for my own server, which runs on version 1.21.8 (also tested on 1.21.10).
-
-Therefore, you might encounter some minor problems when using it on older server versions.
-
-However, if you really need it for lower versions, try using DeepSeek, ChatGPT, or other AI tools to help you create a compatible version for lower Minecraft versions.
-
 ## Future Plans
 - ~Make potion bottles no longer turn entirely blue~ 01/06/26 (consider it half-solved lol)
-- Test it on older server versions
+- ~Test it on older server versions~ It works nicely
