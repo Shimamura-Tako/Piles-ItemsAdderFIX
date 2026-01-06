@@ -5,7 +5,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882600
       generate: false
       model_path: item/pile_logs/cherry/log_1
@@ -13,7 +13,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882601
       generate: false
       model_path: item/pile_logs/cherry/log_2
@@ -21,7 +21,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882602
       generate: false
       model_path: item/pile_logs/cherry/log_3
@@ -29,7 +29,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882603
       generate: false
       model_path: item/pile_logs/cherry/log_4
@@ -37,7 +37,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882604
       generate: false
       model_path: item/pile_logs/cherry/log_5
@@ -45,7 +45,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882605
       generate: false
       model_path: item/pile_logs/cherry/log_6
@@ -53,7 +53,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882606
       generate: false
       model_path: item/pile_logs/cherry/log_7
@@ -61,7 +61,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882607
       generate: false
       model_path: item/pile_logs/cherry/log_8
@@ -69,7 +69,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882608
       generate: false
       model_path: item/pile_logs/cherry/log_9
@@ -77,7 +77,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882609
       generate: false
       model_path: item/pile_logs/cherry/log_10
@@ -85,7 +85,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882610
       generate: false
       model_path: item/pile_logs/cherry/log_11
@@ -93,7 +93,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882611
       generate: false
       model_path: item/pile_logs/cherry/log_12
@@ -101,7 +101,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882612
       generate: false
       model_path: item/pile_logs/cherry/log_13
@@ -109,7 +109,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882613
       generate: false
       model_path: item/pile_logs/cherry/log_14
@@ -117,7 +117,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882614
       generate: false
       model_path: item/pile_logs/cherry/log_15
@@ -125,7 +125,7 @@ items:
     display_name: pilesfix
     permission: pilesfix
     resource:
-      material: GOLDEN_CARROT
+      material: CHORUS_FRUIT
       model_id: 1882615
       generate: false
       model_path: item/pile_logs/cherry/log_16
